@@ -38,7 +38,7 @@ body {
 
     color: #f8ad58;
     margin-left: 6px;
-
+    transition: all 0.5s ease-in-out;
 }
 
 label{
@@ -68,5 +68,6 @@ input[type='password'] {
     border-radius: 5px;
     margin-top: 10px;
     
+
 
 }
