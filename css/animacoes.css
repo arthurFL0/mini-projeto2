@@ -14,6 +14,8 @@
 
   /* Aqui estão definidas as propriedades que fazem o icone da laranja girar(0-360) infinitamente. */
 
+  /* Aqui está de definido as propriedades que fazem com que o formulário seja animado do top da página para baixo    */
+
 .slide {
     animation-duration: 2s;
     animation-name:slide;
